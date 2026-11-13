@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com foco em des
 
 Tenho interesse em construir aplicações, desenvolver APIs REST, trabalhar com bancos de dados relacionais e integrar sistemas.
 
-Atualmente, direciono meus estudos para Java, Spring Boot, SQL e Engenharia de Software, aplicando os conhecimentos em projetos práticos e buscando minha primeira oportunidade profissional na área de tecnologia.
+Atualmente, direciono meus estudos para Java, Spring Boot, SQL, aplicando os conhecimentos em projetos práticos e buscando minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
