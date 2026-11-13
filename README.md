@@ -1,6 +1,6 @@
 # Olá! Eu sou Bruno Costa 👋
 
-### Desenvolvedor Java Back-end em formação | ADS – FIAP
+### Desenvolvedor Java Back-end em formação |  Análise e Desenvolvimento de Sistemas– FIAP
 
 🇧🇷 Brasil | 🌎 Aberto a oportunidades remotas
 
